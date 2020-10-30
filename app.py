@@ -22,7 +22,8 @@ def getUserInput():
         print("4) divide numbers")
         getUserInput()
 
-print("welcome to simple calculator")
+
+print("welcome to simple calculator ")
 
 print("1) add  numbers")
 print("2) subtract numbers")
@@ -74,4 +75,4 @@ while(choice == True):
     
 
 
-print(result)
+print("your result" , result)
