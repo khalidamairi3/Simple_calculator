@@ -20,7 +20,7 @@ def getUserInput():
         print("2) subtract numbers")
         print("3) mutiply numbers")
         print("4) divide numbers")
-        getUserInput()
+        return getUserInput()
 
 
 print("welcome to simple calculator ")
